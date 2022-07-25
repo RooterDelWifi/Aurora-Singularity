@@ -1,0 +1,1 @@
+IA capable to play pong, based on Neuronal Networks and Java, from scratch.
